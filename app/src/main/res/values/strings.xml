@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="dollar">dollar</string>
+    <string name="euro">euro</string>
+    <string name="won">won</string>
+    <string name="input_RMB">input_RMB</string>
+    <string name="message">Hello</string>
+    <string name="btn_config_label">CONFIG</string>
+    <string name="btn_save_label">SAVE</string>
+    <string name="menu_1_label">Setting</string>
+</resources>
